@@ -25,6 +25,8 @@ The dashboard is designed for HR teams to gain actionable insights for **employe
 
 > The full dashboard is available in:  
 **`Project2_HR_Analytics_Dashbord_Pallab.pdf`**
+![Uploading Project2_HR Analytics_Dashbord_Pallab.jpg…]()
+
 
 Your uploaded dashboard screenshot includes:
 
