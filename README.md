@@ -1,4 +1,6 @@
 # 📊 **HR Analytics Dashboard — Employee Attrition & Workforce Insights (Tableau Project)**
+**🔗 Live Dashboard:**  
+https://public.tableau.com/app/profile/pallab.sharma/viz/Project2_17573688772370/Dashboard1 
 
 This Tableau project provides an in-depth analysis of **employee attrition**, **workforce demographics**, **monthly income trends**, and **tenure distribution**.  
 The dashboard helps HR teams identify **who is leaving**, **why they are leaving**, and **how to improve retention** using data-driven insights.
